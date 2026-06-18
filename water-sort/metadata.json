@@ -1,0 +1,6 @@
+{
+  "name": "Water Sort",
+  "description": "A clean, relaxing 2D liquid sorting puzzle game with beautiful liquid physics, calming sound synthesis, and multiple difficulty levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
